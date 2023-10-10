@@ -59,10 +59,7 @@ class ShoppingCartDetail extends StatelessWidget {
           // spaceBetween과 동일
           Spacer(),
           Text("Review"),
-          Text(
-            "(26)",
-            style: TextStyle(color: Colors.blue),
-          ),
+          Text("(26)", style: TextStyle(color: Colors.blue)),
         ],
       ),
     );
